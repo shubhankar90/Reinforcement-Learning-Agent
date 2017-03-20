@@ -2,7 +2,7 @@
 """
 Created on Sun Feb 26 18:35:55 2017
 
-@author: alienware
+@author: Shubhankar Mitra
 """
 #importing libraries
 import random
