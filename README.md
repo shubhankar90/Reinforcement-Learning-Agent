@@ -2,6 +2,7 @@
 This project used the openai gym environment to train a neural network for playing openai games. https://www.linkedin.com/pulse/create-self-learning-ai-deep-reinforcement-shubhankar-mitra/
 
 # Article Text below
+## Article Link: https://www.linkedin.com/pulse/create-self-learning-ai-deep-reinforcement-shubhankar-mitra/
 So I recently got introduced to the apenai (https://gym.openai.com/) gym. They have provided the environment to run simple 2-D games in python with programmatic inputs and state output. This makes it possible to run simulations while controlling the game agent and observing the game environment. In this tutorial, I will go through the code and concepts of reinforcement learning to train a deep neural network to play a simple CartPole game. If you want to directly jump to the code: https://github.com/shubhankar90/Reinforcement-Learning-Agent/blob/master/openai-player.py .
 
 
